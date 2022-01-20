@@ -16,7 +16,6 @@ class MyApp extends StatefulWidget {
   }
 }
 
-
 class _State extends State<MyApp> {
   String paramText = 'Enter something...';
 

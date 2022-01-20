@@ -5,7 +5,6 @@ class NextPage extends StatelessWidget {
 
   const NextPage({Key? key, required this.paramText}) : super(key: key);
 
-
   @override
   Widget build (BuildContext context) {
     return Scaffold(
