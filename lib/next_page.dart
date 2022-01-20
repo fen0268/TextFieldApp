@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 class NextPage extends StatelessWidget {
 
-
   final String paramText;
 
   const NextPage({Key? key, required this.paramText}) : super(key: key);
