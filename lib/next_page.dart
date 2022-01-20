@@ -14,7 +14,7 @@ class NextPage extends StatelessWidget {
       body: Center(
         child: Column(
           children: [
-            SizedBox(
+            const SizedBox(
               height: 50,
             ),
             Text(paramText,
